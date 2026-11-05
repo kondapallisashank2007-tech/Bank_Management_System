@@ -1,0 +1,1 @@
+{"name":"finova-bank","private":true,"scripts":{"server":"npm --prefix server start","client":"npm --prefix client run dev"}}
